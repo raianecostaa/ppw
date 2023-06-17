@@ -1,0 +1,26 @@
+body{
+    color: maroon;
+}
+h2{
+   font-family: arial; 
+
+}
+.arial{
+    font-family: arial;
+    font-size: 12px;
+}
+.center{
+    font-family: arial;
+    font-size: 12px;
+  text-align: center;
+}
+.right{
+    font-family: arial;
+    font-size: 12px;
+  text-align: right;
+} 
+.center{
+    font-family: arial;
+    font-size: 12px;
+  text-align: center;
+}

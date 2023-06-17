@@ -1,0 +1,28 @@
+body {
+    font-family: arial;
+    width: 70vh;
+    margin-left: 30%;
+    margin-right: 50%;
+    margin-top: 10%;
+
+
+}
+
+
+h3,p{
+    color: green;
+
+
+}
+h4,p{
+    color: silver;
+}
+
+h5,p{
+
+    color: red;
+
+}
+h6,p{
+    color: violet;
+}
