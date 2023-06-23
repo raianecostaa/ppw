@@ -1,0 +1,33 @@
+.bgsite {
+    background-color: black;
+   
+}
+*{
+    color: white;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5% ;
+    margin: 10% 19% ;
+}
+.img{
+    width: 300px;
+    margin-bottom:5% ;
+}
+.collapse{
+    padding:30px ;
+
+    text-align: right;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 25px;
+}
+.navbar-brand{
+ text-decoration: none;
+ padding-top:200px !important;
+ font-size: 25px;
+   
+}

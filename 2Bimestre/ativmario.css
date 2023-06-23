@@ -1,0 +1,38 @@
+v
+.s{
+
+margin: 100px 100px;
+width: 100px;36
+border-radius: 50%;
+animation-name: nuvem;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+
+
+}
+@keyframes nuvem {
+  from{
+    transform: translateX(1500px);
+  
+  }
+  to{
+    transform: translateX(-1300px);
+  }
+}
+.r{
+    width: 100px;
+    animation-name: mario;
+   animation-duration: 2s;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+     
+}
+@keyframes mario {
+    from{
+        margin-left: 0px;
+    }
+    to{
+        margin-left:2000px;
+    }
+}
